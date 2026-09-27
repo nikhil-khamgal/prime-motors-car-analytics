@@ -2,7 +2,8 @@ Prime Motors — Used Car Sales, Pricing & Profitability Analytics
 
 A Power BI portfolio project simulating the analytics function of a used-car dealership — from raw data to a decision-ready, 3-page interactive dashboard.
 
-Show Image
+<img width="1437" height="812" alt="executive-overview" src="https://github.com/user-attachments/assets/f88873d3-7bd8-4c8e-94bb-a27e716646c5" />
+
 
  About This Project
 
@@ -55,7 +56,9 @@ Dashboard design	Built a 3-page report with synced slicers, page navigation butt
 
 3. Inventory & Customer Insights — the operational side: which stock is aging and blocking capital, and who the buyers actually are.
 
-Show Image Show Image
+<img width="1435" height="842" alt="inventory-customer" src="https://github.com/user-attachments/assets/86446c13-2488-4fff-bb15-dcf844401ae0" />
+<img width="1440" height="815" alt="sales-pricing" src="https://github.com/user-attachments/assets/a88b7172-ff22-4886-bbff-f1dc12176784" />
+
 
  What the Data Showed
 North region leads with 32.6% of total revenue, followed closely by West
