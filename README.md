@@ -57,6 +57,8 @@ Dashboard design	Built a 3-page report with synced slicers, page navigation butt
 3. Inventory & Customer Insights — the operational side: which stock is aging and blocking capital, and who the buyers actually are.
 
 <img width="1435" height="842" alt="inventory-customer" src="https://github.com/user-attachments/assets/86446c13-2488-4fff-bb15-dcf844401ae0" />
+
+
 <img width="1440" height="815" alt="sales-pricing" src="https://github.com/user-attachments/assets/a88b7172-ff22-4886-bbff-f1dc12176784" />
 
 
