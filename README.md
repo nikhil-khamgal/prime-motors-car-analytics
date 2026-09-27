@@ -12,15 +12,6 @@ Used-car dealerships operate on thin margins and depend heavily on getting three
 
 This project simulates the analytics function for a fictional dealership, **Prime Motors**, operating across 14 cities in India. It was built to practice — and demonstrate — the full analyst workflow: understanding a business problem, shaping raw data around it, modeling it correctly, and turning it into a dashboard a manager could actually use to make decisions.
 
-## Why This Project Exists
-
-Most beginner Power BI projects stop at "here's a bar chart of sales by region." This one was built to go further and reflect how analytics actually gets used in a business:
-
-- Start from real business questions, not from "what charts can I make with this data"
-- Build a proper data model rather than dumping one flat table into visuals
-- Add engineered features (Car Age, Price Segment, Mileage Segment) that sharpen the analysis, rather than charts that just restate raw columns
-- Design the dashboard so every page answers a different question, instead of cramming everything onto one screen
-- Back every KPI and insight with a DAX measure, not a manually typed number
 
 ## Business Questions This Dashboard Answers
 
